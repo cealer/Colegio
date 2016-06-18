@@ -1,0 +1,8 @@
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\ACCESO_DATOS\bin\Debug\ACCESO_DATOS.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\ACCESO_DATOS\bin\Debug\ACCESO_DATOS.pdb
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\ACCESO_DATOS\bin\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\ACCESO_DATOS\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.pdb

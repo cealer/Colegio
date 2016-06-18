@@ -1,0 +1,9 @@
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\bin\Debug\BOL.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\bin\Debug\BOL.pdb
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\bin\Debug\ACCESO_DATOS.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\bin\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\bin\Debug\ACCESO_DATOS.pdb
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\obj\Debug\BOL.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\BOL\obj\Debug\BOL.pdb

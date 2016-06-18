@@ -1,0 +1,4 @@
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\Colegio-master\Colegio_Sistema\Entidades\obj\Debug\Entidades.pdb
