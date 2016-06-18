@@ -1,0 +1,11 @@
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\obj\Debug\Presentacion.TipoAmbiente.resources
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\bin\Debug\MetroFramework.dll
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Cesar\Desktop\Colegio\Colegio_Sistema\Presentacion\obj\Debug\Presentacion.pdb
